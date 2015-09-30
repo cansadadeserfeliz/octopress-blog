@@ -32,7 +32,7 @@ La herramienta que ayuda con la depuración del código en Django.
 Instrucciones para instalar el módulo: http://www.ruben-arranz.es/blog/instalar-django-debug-toolbar/
 
 #### [django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture)
-Ayuda crear objetos de modelos de Dajngo de la forma dinámica. Es muy útil para los test cuando hay necesidad de crear muchos objetos.
+Ayuda crear objetos de modelos de Django de la forma dinámica. Es muy útil para los test cuando hay necesidad de crear muchos objetos.
 
 #### [django-braces](https://github.com/brack3t/django-braces)
 La biblioteca de los mixins útiles para Django.

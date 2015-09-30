@@ -28,5 +28,11 @@ y queremos que cada vez cuando editemos alguno de los archivos ``.sass``, PyChar
                 home.sass
                 variables.sass
 
-Para esto tenemos que ir a ``File -> Settings -> File Watchers`` y agregar un nuevo watcher, escogiendo la opción ``SASS``:
+Para esto debemos ir a ``File -> Settings -> File Watchers`` y agregar un nuevo watcher, escogiendo la opción ``SASS``
+
+{% img /images/pycharm_file_watchers.png %}
+
+y editar las configuraciones:
+
+{% img /images/pycharm_file_watchers_settings.png %}
 
